@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100877770379",
+    "project_id": "exotic-pet-manager",
+    "storage_bucket": "exotic-pet-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100877770379:android:ecb791d4427828a8acbe8e",
+        "android_client_info": {
+          "package_name": "com.example.reptile_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100877770379-7uaj8sqsvjp947a9g80f0cls6olv4a0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCramcC7sPBbt1wvZGi5D6A0J9EIU8JVpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100877770379-7uaj8sqsvjp947a9g80f0cls6olv4a0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
